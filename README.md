@@ -1,2 +1,2 @@
 # Icarours.github.io
-my personal websit
+my personal website
